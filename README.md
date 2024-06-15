@@ -1,5 +1,5 @@
 # APP de tarefas em MAUI
- neste app conccentrei em fazer algo mais proximo com um bloco de notas com um to-do 
+ neste app concentrei em fazer algo mais proximo com um bloco de notas com um to-do 
 
 ### tecnologias usadas 
  - Utlizamos Csharp para efetuar o beck-end
