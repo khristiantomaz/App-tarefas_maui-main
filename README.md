@@ -6,4 +6,5 @@
  - Banco de dados utilizamos o SQLite parar guarda as notas e tarefas
  - O framework .NET MAUI nos ajudou em criar o app para multiplataforma
 
+ ainda em desenvolvimento... 
  
